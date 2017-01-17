@@ -1,1 +1,1 @@
-Mirage console implementation for Solo5
+# mirage-solo5 -- Mirage console implementation for Solo5
